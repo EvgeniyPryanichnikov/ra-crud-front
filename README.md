@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/m2ejj4x8wi6a3cgd?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/ra-crud-front)
 
-CRUD
+CRUD-FRONT
 ===
 
 Вам необходимо реализовать базовый CRUD (без обновления) при работе с HTTP.
